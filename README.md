@@ -1,7 +1,7 @@
 ### IMDB Clone
 Imbd mini clone where you can search movies/webseries , their cast/crew and ratings.
 
-HostedLink:[ https://65b34a4076faab00084afc96--heroic-cranachan-0c2c6b.netlify.app/]
+HostedLink:[ https://im-db-clone-gold.vercel.app/]
 
 ### Description
 
